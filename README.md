@@ -16,7 +16,7 @@ https://www.atlassian.com/git/tutorials/git-bash <br>
 https://render.com/docs/web-services <br>
 https://www.hostinger.com/tutorials/basic-git-commands <br>
 
-# Setting up your dev space
+# Setting up your dev space :nerd_face:
 
 - [ ] Download Git bash https://gitforwindows.org/ <br>
 
@@ -46,7 +46,7 @@ git commit -m
 git push
 git status
 ```
-# Setting up Render to deploy your webpage
+# Setting up Render to deploy your webpage :nerd_face:
 
 - [ ] Go to render (create account if needed)<br>
 - [ ] Create a new web service, connect to Github repo, change start to be Node.js, add yarn if needed<br>
