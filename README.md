@@ -37,7 +37,6 @@ git commit -m
 git push
 git status
 ```
-
 # Setting up Render to deploy your webpage
 
 Step 15: Go to render (create account if needed)<br>
