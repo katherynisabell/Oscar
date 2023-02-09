@@ -9,7 +9,7 @@ Create a webservice using Git Bash command line and Render :desktop_computer: <b
 __So that__ 
 I can have an awesome site :tada: <br>
 
-# Introduction :wave:
+## Introduction :wave:
 
 The purpose of this README is to document the process of using GitBash as an emulation layer for a Git command line. In this README we will show a user how to download GitBash, utilize the basic functions in GitBash, and push a Git repo to render, and utilize Render to deploy a web service. <br>
 
@@ -19,7 +19,7 @@ https://www.atlassian.com/git/tutorials/git-bash <br>
 https://render.com/docs/web-services <br>
 https://www.hostinger.com/tutorials/basic-git-commands <br>
 
-# Set Up Dev Space :nerd_face:
+## Set Up Dev Space :nerd_face:
 
 - [ ] Download Git bash https://gitforwindows.org/ <br>
 
@@ -38,7 +38,7 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 - [ ] `git clone` Clone repo <br>
 
-# Let's Code :keyboard:
+## Let's Code :keyboard:
 
 - [ ] Go to files and open the cloned repo + CD into cloned repo <br>
 - [ ] Use `touch add app.js` where the node stuff will go and `touch index.html` where web page content will go (show user code snippet)<br>
@@ -52,7 +52,7 @@ git commit -m
 git push
 git status
 ```
-# Let's Deploy :rocket:
+## Let's Deploy :rocket:
 
 - [ ] Go to render (create account if needed)<br>
 - [ ] Create a new web service, connect to Github repo, change start to be Node.js, add yarn if needed<br>
