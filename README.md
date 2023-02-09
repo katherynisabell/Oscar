@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/111913185/217900503-df7e31d9-270a-41e2-94bc-f0e60c04ad55.png)
 
-# Story card  <br>
+# Story card :clipboard:  <br>
 
 __As a web dev__ :tipping_hand_woman: <br> 
 __I want to create a webservice using Git Bash command line and Render__ :desktop_computer: <br>
