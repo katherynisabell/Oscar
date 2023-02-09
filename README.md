@@ -13,7 +13,7 @@ I can have an awesome site :tada: <br>
 
 The purpose of this README is to document the process of using GitBash as an emulation layer for a Git command line. In this README we will show a user how to download GitBash, utilize the basic functions in GitBash, and push a Git repo to render, and utilize Render to deploy a web service. <br>
 
-# Resources :gear:
+## Resources :gear:
 
 https://www.atlassian.com/git/tutorials/git-bash <br>
 https://render.com/docs/web-services <br>
