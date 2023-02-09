@@ -49,9 +49,9 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 - [ ] Need to put node express thing into app.js and a small code snippet into index.html to display like “I DEPLOYED A WEBPAGE” (show user code snippet)<br>
 
-Show and explain basic commands such as 
-`git pull` (gets most recent files from repo), 
-`touch` (adds a file), **add one more**<br>
+- Show and explain basic commands such as 
+- `git pull` (gets most recent files from repo), 
+- `touch` (adds a file), **add one more**<br>
 - [ ] Explain you can modify your code then push it to the repo using these commands
 ``` 
 
