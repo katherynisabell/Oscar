@@ -51,12 +51,25 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 ## Let's Code :keyboard:
 
-- [ ] `touch app.js` and `node app.js` will add some files. Dont freak, we will use those! This is where web page content will go 
+- [ ] `touch app.js` and `node app.js` will add some files. Dont freak, we will use those! This is where web page content will go
 
-```diff
+- [ ] edit your app.js to initialize node express like the code below!
 
-- [ ] Need to put node express thing into app.js and a small code snippet into index.html
-- to display like “I DEPLOYED A WEBPAGE” (show user code snippet)<br>
+```javascript
+const express = require('express')
+const app = express()
+const PORT = process.env.PORT || 3000; 
+
+app.get('/', (req, res) => {
+  res.send('I DEPLOYED A WEBPAGE :)')
+})
+
+console.log('in the node console');
+
+app.listen(PORT, () => {
+    console.log(`Server is running & listening on port: ${PORT}`);
+  });
+  ```
 
 - Show and explain basic commands such as 
 - `touch` (adds a file), **add one more**<br> 
@@ -87,18 +100,4 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 ![image](https://user-images.githubusercontent.com/111913185/217900556-9aa3f6d0-7f21-46c3-b641-4955ec13169e.png)
 
 
-```javascript
-const express = require('express')
-const app = express()
-const PORT = process.env.PORT || 3000; 
 
-app.get('/', (req, res) => {
-  res.send('Katheryn White ! :)')
-})
-
-console.log('in the node console');
-
-app.listen(PORT, () => {
-    console.log(`Server is running & listening on port: ${PORT}`);
-  });
-  ```
