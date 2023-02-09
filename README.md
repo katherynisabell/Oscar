@@ -18,7 +18,7 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 # Setting up your dev space
 
-Step 1: Downloading Git bash https://gitforwindows.org/ <br>
+- [ ] Download Git bash https://gitforwindows.org/ <br>
 
 Step 2: Download Node.js https://nodejs.dev/en/ <br>
 
