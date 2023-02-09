@@ -56,6 +56,7 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 - `touch` (adds a file), **add one more**<br>
 - Explain you can modify your code then push it to the repo using these commands below
 ``` 
+
 ```git add
 git commit -m
 git push
@@ -67,8 +68,10 @@ git status
 - [ ] Go to render https://render.com/ (sign in with Github)<br>
 ![image](https://user-images.githubusercontent.com/111913185/217911417-a5f5f807-9df5-42c4-937d-199158216d9b.png) <br>
 
+```diff
 - [ ] Create a new web service, connect to Github repo, change start to be Node.js, add yarn if needed<br>
 
 - [ ] Initialize the web service in Git Bash terminal by calling node app.js <br>
+```
 
 ![image](https://user-images.githubusercontent.com/111913185/217900556-9aa3f6d0-7f21-46c3-b641-4955ec13169e.png)
