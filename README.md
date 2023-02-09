@@ -19,7 +19,7 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 Step 1: Downloading Git bash https://gitforwindows.org/ <br>
 Step 2: Download Node.js https://nodejs.dev/en/ <br>
 Step 3: Create a new Github repo <br>
-Step 4:  After new repo is created grab the link to code <br>
+Step 4: After new repo is created grab the link to code <br>
 Step 5: Open the git bash terminal (either in VS code or the app)<br>
 Step 6: CD to where the file should be cloned (Desktop) (show code snippet)<br>
 Step 7: Clone repo (show the code snippet (git clone …)<br>
@@ -27,7 +27,7 @@ Step 7: Clone repo (show the code snippet (git clone …)<br>
 # Setting up your code
 
 Step 8: Go to files and open the cloned repo + CD into cloned repo <br>
-Step 9: Use touch to add app.js where the node stuff will go and add index.html where web page content will go (show user code snippet)<br>
+Step 9: Use `touch` to `add app.js` where the node stuff will go and add index.html where web page content will go (show user code snippet)<br>
 Step 10: Need to put node express thing into app.js and a small code snippet into index.html to display like “I DEPLOYED A WEBPAGE” (show user code snippet)<br>
 Show and explain basic commands such as git pull (gets most recent files from repo), touch(adds a file), **add one more**<br>
 Basic GIT Commands: A Complete Cheat Sheet for Beginners (hostinger.com)<br>
