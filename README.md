@@ -19,7 +19,7 @@ https://www.atlassian.com/git/tutorials/git-bash <br>
 https://render.com/docs/web-services <br>
 https://www.hostinger.com/tutorials/basic-git-commands <br>
 
-# Setting up your dev space :nerd_face:
+# Set Up Dev Space :nerd_face:
 
 - [ ] Download Git bash https://gitforwindows.org/ <br>
 
@@ -35,7 +35,7 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 - [ ] `git clone` Clone repo <br>
 
-# Setting up your code :nerd_face:
+# Let's Code :nerd_face:
 
 - [ ] Go to files and open the cloned repo + CD into cloned repo <br>
 - [ ] Use `touch add app.js` where the node stuff will go and `touch index.html` where web page content will go (show user code snippet)<br>
@@ -49,7 +49,7 @@ git commit -m
 git push
 git status
 ```
-# Setting up Render to deploy your webpage :nerd_face:
+# Let's Deploy :nerd_face:
 
 - [ ] Go to render (create account if needed)<br>
 - [ ] Create a new web service, connect to Github repo, change start to be Node.js, add yarn if needed<br>
