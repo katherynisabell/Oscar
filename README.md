@@ -1,5 +1,5 @@
 # Story card  <br>
-![image](https://user-images.githubusercontent.com/111913185/217900503-df7e31d9-270a-41e2-94bc-f0e60c04ad55.png)
+<center> ![image](https://user-images.githubusercontent.com/111913185/217900503-df7e31d9-270a-41e2-94bc-f0e60c04ad55.png) <br> </center>
 As a web dev <br>
 I want to create a webservice using Git Bash command line and Render <br>
 So that I can have an awesome site <br>
