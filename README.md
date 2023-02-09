@@ -1,8 +1,8 @@
 # Oscar
 # Story card  
-As a web dev
-I want to create a webservice using Git Bash command line and Render 
-So that I can have an awesome site
+As a web dev <br>
+I want to create a webservice using Git Bash command line and Render <br>
+So that I can have an awesome site <br>
 # Introduction
 The purpose of this README is to document the process of using GitBash as an emulation layer for a Git command line. In this README we will show a user how to download GitBash, utilize the basic functions in GitBash, and push a Git repo to render, and utilize Render to deploy a web service. 
 Git bash: Definition, commands, & getting started | Atlassian
