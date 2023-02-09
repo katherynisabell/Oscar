@@ -29,8 +29,9 @@ Step 7: Clone repo (show the code snippet (git clone …)<br>
 Step 8: Go to files and open the cloned repo + CD into cloned repo <br>
 Step 9: Use `touch add app.js` where the node stuff will go and `touch index.html` where web page content will go (show user code snippet)<br>
 Step 10: Need to put node express thing into app.js and a small code snippet into index.html to display like “I DEPLOYED A WEBPAGE” (show user code snippet)<br>
-Show and explain basic commands such as git pull (gets most recent files from repo), touch(adds a file), **add one more**<br>
-Basic GIT Commands: A Complete Cheat Sheet for Beginners (hostinger.com)<br>
+Show and explain basic commands such as 
+`git pull` (gets most recent files from repo), 
+`touch` (adds a file), **add one more**<br>
 Step 11-14: Explain you can modify your code then push it to the repo using these commands (
 ```git add
 git commit -m
