@@ -85,3 +85,20 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 ```
 
 ![image](https://user-images.githubusercontent.com/111913185/217900556-9aa3f6d0-7f21-46c3-b641-4955ec13169e.png)
+
+
+function(counter) { 
+const express = require('express')
+const app = express()
+const PORT = process.env.PORT || 3000; 
+
+app.get('/', (req, res) => {
+  res.send('Katheryn White ! :)')
+})
+
+console.log('in the node console');
+
+app.listen(PORT, () => {
+    console.log(`Server is running & listening on port: ${PORT}`);
+  });
+}
