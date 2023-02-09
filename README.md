@@ -35,7 +35,8 @@ Step 11-14: Explain you can modify your code then push it to the repo using thes
 ```git add
 git commit -m
 git push
-git status``` <br>
+git status
+`
 
 # Setting up Render to deploy your webpage
 
