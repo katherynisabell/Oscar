@@ -2,7 +2,7 @@
 
 # Story card  <br>
 
-__As a web dev__ <br> :tipping_hand_woman:
+__As a web dev__ :tipping_hand_woman: <br> 
 __I want to create a webservice using Git Bash command line and Render__<br>
 __So that I can have an awesome site__ <br>
 
