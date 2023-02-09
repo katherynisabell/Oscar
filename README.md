@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/111913185/217900503-df7e31d9-270a-41e2-94bc-f0e60c04ad55.png)
 
-# Story card  <br>
-###
-- [x] As a web dev <br>
+## Story card  <br>
+
+### - [x] As a web dev <br>
 - [x] I want to create a webservice using Git Bash command line and Render <br>
 - [x] So that I can have an awesome site <br>
 
