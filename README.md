@@ -8,13 +8,13 @@ The purpose of this README is to document the process of using GitBash as an emu
 Git bash: Definition, commands, & getting started | Atlassian
 Web Services | Render · Cloud Hosting for Developers
 # Setting up your dev space
-<br> Step 1: Downloading Git bash (provide git bash download link) </br>
-Step 2: Download Node.js (provide link download link and mention this will be used in the deployment action)
-Step 3: Create a new Github repo 
-Step 4:  After new repo is created grab the link to code 
-Step 5: Open the git bash terminal (either in VS code or the app)
-Step 6: CD to where the file should be cloned (Desktop) (show code snippet)
-Step 7: Clone repo (show the code snippet (git clone …)
+Step 1: Downloading Git bash (provide git bash download link) <br>
+Step 2: Download Node.js (provide link download link and mention this will be used in the deployment action) <br>
+Step 3: Create a new Github repo <br>
+Step 4:  After new repo is created grab the link to code <br>
+Step 5: Open the git bash terminal (either in VS code or the app)<br>
+Step 6: CD to where the file should be cloned (Desktop) (show code snippet)<br>
+Step 7: Clone repo (show the code snippet (git clone …)<br>
 # Setting up your code
 Step 8: Go to files and open the cloned repo + CD into cloned repo 
 Step 9: Use touch to add app.js where the node stuff will go and add index.html where web page content will go (show user code snippet)
