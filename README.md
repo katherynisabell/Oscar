@@ -35,7 +35,7 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 - [ ] `git clone` Clone repo <br>
 
-# Let's Code :nerd_face:
+# Let's Code :keyboard:
 
 - [ ] Go to files and open the cloned repo + CD into cloned repo <br>
 - [ ] Use `touch add app.js` where the node stuff will go and `touch index.html` where web page content will go (show user code snippet)<br>
