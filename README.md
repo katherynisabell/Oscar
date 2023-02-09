@@ -1,5 +1,5 @@
 # Story card  <br>
-
+![image](https://user-images.githubusercontent.com/111913185/217900503-df7e31d9-270a-41e2-94bc-f0e60c04ad55.png)
 As a web dev <br>
 I want to create a webservice using Git Bash command line and Render <br>
 So that I can have an awesome site <br>
@@ -17,13 +17,17 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 # Setting up your dev space
 
 Step 1: Downloading Git bash https://gitforwindows.org/ <br>
+
 Step 2: Download Node.js https://nodejs.dev/en/ <br>
+
 Step 3: Create a new Github repo <br>
+
 Step 4: After new repo is created grab the link to code <br>
-![image](https://user-images.githubusercontent.com/111913185/217900265-8c6bcc17-99e2-479c-8339-d8cccef1f51f.png)
 
 Step 5: Open the git bash terminal (either in VS code or the app)<br>
+
 Step 6: CD to where the file should be cloned (Desktop) (show code snippet)<br>
+
 Step 7: `git clone` Clone repo <br>
 
 # Setting up your code
@@ -46,3 +50,4 @@ Step 15: Go to render (create account if needed)<br>
 Step 16: Create a new web service, connect to Github repo, change start to be Node.js, add yarn if needed<br>
 Step 17: Initialize the web service in Git Bash terminal by calling node app.js <br>
 
+![image](https://user-images.githubusercontent.com/111913185/217900556-9aa3f6d0-7f21-46c3-b641-4955ec13169e.png)
