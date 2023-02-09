@@ -28,40 +28,52 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 - [ ] Create a new Github repo <br>
 
+- [ ] Make sure to 'Add a README file' + .gitignore template: node 
+
 ![image](https://user-images.githubusercontent.com/111913185/217906381-803b0866-bdc8-4469-aa4e-65b5712abc70.png) <br>
 
 - [ ] After new repo is created grab the link to code <br>
 
 ![image](https://user-images.githubusercontent.com/111913185/217906855-6dfba879-f501-485f-8912-32ef4c0c7ea8.png) <br>
 
-- [ ] Open the git bash comand terminal <br>
+- [ ] Open the git bash command terminal <br>
 
 - [ ] CD into where the file should be cloned (Desktop for tutorial purposed) `cd Desktop` <br>
 
-- [ ] Clone repo using the `git clone` command and paste the repo URL we previously copied <br>
+- [ ] Clone repo using the `git clone` command and paste the repo URL we previously copied. Example: `git clone 486favoriteclass/`<br>
+
+- [ ] To make sure all info if up to date in your code use the `git pull` command.
+
+- [ ] Dont forget to install that node.js we downloaded `npm i express` followed by `npm init -y`.
+
+- [ ] lets open up our files!!! `code .`
+
 
 ## Let's Code :keyboard:
 
 - [ ] Go to files and open the cloned repo + CD into cloned repo <br>
 
+- [ ] `touch app.js` and `node app.js` will add some files. Dont freak, we will use those! This is where web page content will go 
+
 ```diff
-- [ ] Use `touch add app.js` where the node stuff will go and `touch index.html`
-- where web page content will go (show user code snippet)<br>
 
 - [ ] Need to put node express thing into app.js and a small code snippet into index.html
 - to display like “I DEPLOYED A WEBPAGE” (show user code snippet)<br>
 
 - Show and explain basic commands such as 
-- `git pull` (gets most recent files from repo), 
-- `touch` (adds a file), **add one more**<br>
-- Explain you can modify your code then push it to the repo using these commands below
+- `touch` (adds a file), **add one more**<br> 
+->NOTE FROM NICOLE: do you want to add instructions on the code we did for mike? like what we put in our app.js file?
 ``` 
 
-```git add
-git commit -m
-git push
-git status
-```
+- [ ] You're ready to send it all back to GitHub?? Cool. Lets see what files you altered by `git status`
+
+- [ ] Notice some files that are red? Lets fix that `git add.`
+
+- [ ] Check yourself by `git status` again. Notice they are green!!! 
+
+- [ ] Lets leave ourselves a note telling us what we did by `git commit -m "note here!"` 
+
+- [ ] and to finish it off, `git push`. you will most likely be asked to sign in. please do so & watch the magic happen !
 
 ## Let's Deploy :rocket:
 
