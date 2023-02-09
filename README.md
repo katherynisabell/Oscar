@@ -29,14 +29,14 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 ![image](https://user-images.githubusercontent.com/111913185/217906381-803b0866-bdc8-4469-aa4e-65b5712abc70.png) <br>
 
 
-- [ ] After new repo is created grab the link to code <br>
+- [ ] After new repo is created grab the link to code by copying <br>
 ![image](https://user-images.githubusercontent.com/111913185/217906855-6dfba879-f501-485f-8912-32ef4c0c7ea8.png) <br>
 
 - [ ] Open the git bash comand terminal <br>
 
 - [ ] CD into where the file should be cloned (Desktop for tutorial purposed) `cd Desktop` <br>
 
-- [ ] `git clone` Clone repo <br>
+- [ ] Clone repo using the `git clone` command and paste the repo URL we previously copied <br>
 
 ## Let's Code :keyboard:
 
