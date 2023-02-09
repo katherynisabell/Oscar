@@ -25,7 +25,8 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 - [ ] Download Node.js https://nodejs.dev/en/ <br>
 
-- [ ] Create a new Github repo <br>
+- [ ] Create a new Github repo ![image](https://user-images.githubusercontent.com/111913185/217906381-803b0866-bdc8-4469-aa4e-65b5712abc70.png)
+<br>
 
 - [ ] After new repo is created grab the link to code <br>
 
