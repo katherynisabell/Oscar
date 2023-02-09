@@ -3,7 +3,7 @@ const app = express()
 const PORT = process.env.PORT || 3000; 
 
 app.get('/', (req, res) => {
-  res.send('Katheryn White ! :)')
+  res.send('I DEPLOYED A WEB PAGE ! :)')
 })
 
 console.log('in the node console');
