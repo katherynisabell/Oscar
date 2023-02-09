@@ -30,6 +30,7 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 
 - [ ] After new repo is created grab the link to code <br>
+![image](https://user-images.githubusercontent.com/111913185/217906855-6dfba879-f501-485f-8912-32ef4c0c7ea8.png) <br>
 
 - [ ] Open the git bash terminal (either in VS code or the app)<br>
 
