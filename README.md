@@ -4,8 +4,8 @@ I want to create a webservice using Git Bash command line and Render <br>
 So that I can have an awesome site <br>
 # Introduction
 The purpose of this README is to document the process of using GitBash as an emulation layer for a Git command line. In this README we will show a user how to download GitBash, utilize the basic functions in GitBash, and push a Git repo to render, and utilize Render to deploy a web service. 
-Git bash: Definition, commands, & getting started | Atlassian
-Web Services | Render · Cloud Hosting for Developers
+(https://www.atlassian.com/git/tutorials/git-bash) 
+
 # Setting up your dev space
 Step 1: Downloading Git bash (provide git bash download link) <br>
 Step 2: Download Node.js (provide link download link and mention this will be used in the deployment action) <br>
