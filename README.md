@@ -7,7 +7,7 @@ Web Dev :tipping_hand_woman: <br>
 __I want to__
 Create a webservice using Git Bash command line and Render :desktop_computer: <br>
 __So that__ 
-I can have an awesome site:tada: <br>
+I can have an awesome site :tada: <br>
 
 # Introduction :wave:
 
