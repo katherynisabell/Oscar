@@ -20,9 +20,11 @@ Step 1: Downloading Git bash https://gitforwindows.org/ <br>
 Step 2: Download Node.js https://nodejs.dev/en/ <br>
 Step 3: Create a new Github repo <br>
 Step 4: After new repo is created grab the link to code <br>
+![image](https://user-images.githubusercontent.com/111913185/217900265-8c6bcc17-99e2-479c-8339-d8cccef1f51f.png)
+
 Step 5: Open the git bash terminal (either in VS code or the app)<br>
 Step 6: CD to where the file should be cloned (Desktop) (show code snippet)<br>
-Step 7: Clone repo (show the code snippet (git clone …)<br>
+Step 7: `git clone` Clone repo <br>
 
 # Setting up your code
 
