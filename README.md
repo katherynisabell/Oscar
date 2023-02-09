@@ -41,22 +41,29 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 ## Let's Code :keyboard:
 
 - [ ] Go to files and open the cloned repo + CD into cloned repo <br>
+
 - [ ] Use `touch add app.js` where the node stuff will go and `touch index.html` where web page content will go (show user code snippet)<br>
+ 
 - [ ] Need to put node express thing into app.js and a small code snippet into index.html to display like “I DEPLOYED A WEBPAGE” (show user code snippet)<br>
+
 Show and explain basic commands such as 
 `git pull` (gets most recent files from repo), 
 `touch` (adds a file), **add one more**<br>
-Step 11-14: Explain you can modify your code then push it to the repo using these commands (
+- [ ] Explain you can modify your code then push it to the repo using these commands
+
 ```git add
 git commit -m
 git push
 git status
 ```
+
 ## Let's Deploy :rocket:
 
 - [ ] Go to render https://render.com/ (sign in with Github)<br>
 ![image](https://user-images.githubusercontent.com/111913185/217911417-a5f5f807-9df5-42c4-937d-199158216d9b.png) <br>
+
 - [ ] Create a new web service, connect to Github repo, change start to be Node.js, add yarn if needed<br>
+
 - [ ] Initialize the web service in Git Bash terminal by calling node app.js <br>
 
 ![image](https://user-images.githubusercontent.com/111913185/217900556-9aa3f6d0-7f21-46c3-b641-4955ec13169e.png)
