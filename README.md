@@ -49,7 +49,7 @@ git commit -m
 git push
 git status
 ```
-# Let's Deploy :nerd_face:
+# Let's Deploy :rocket:
 
 - [ ] Go to render (create account if needed)<br>
 - [ ] Create a new web service, connect to Github repo, change start to be Node.js, add yarn if needed<br>
