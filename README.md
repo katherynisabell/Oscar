@@ -8,7 +8,7 @@ The purpose of this README is to document the process of using GitBash as an emu
 Git bash: Definition, commands, & getting started | Atlassian
 Web Services | Render · Cloud Hosting for Developers
 # Setting up your dev space
-Step 1: Downloading Git bash (provide git bash download link)
+<br> Step 1: Downloading Git bash (provide git bash download link) </br>
 Step 2: Download Node.js (provide link download link and mention this will be used in the deployment action)
 Step 3: Create a new Github repo 
 Step 4:  After new repo is created grab the link to code 
