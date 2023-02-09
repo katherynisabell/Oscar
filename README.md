@@ -1,4 +1,3 @@
-# <h1> Oscar </h1>
 # Story card  
 As a web dev <br>
 I want to create a webservice using Git Bash command line and Render <br>
