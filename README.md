@@ -54,9 +54,8 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 - Show and explain basic commands such as 
 - `git pull` (gets most recent files from repo), 
 - `touch` (adds a file), **add one more**<br>
-- [ ] Explain you can modify your code then push it to the repo using these commands
+- Explain you can modify your code then push it to the repo using these commands below
 ``` 
-
 ```git add
 git commit -m
 git push
