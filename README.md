@@ -74,7 +74,6 @@ app.listen(PORT, () => {
 - Show and explain basic commands such as 
 - `touch` (adds a file), **add one more**<br> 
 ->NOTE FROM NICOLE: do you want to add instructions on the code we did for mike? like what we put in our app.js file?
-``` 
 
 - [ ] You're ready to send it all back to GitHub?? Cool. Lets see what files you altered by `git status`
 
