@@ -51,8 +51,6 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 ## Let's Code :keyboard:
 
-- [ ] Go to files and open the cloned repo + CD into cloned repo <br>
-
 - [ ] `touch app.js` and `node app.js` will add some files. Dont freak, we will use those! This is where web page content will go 
 
 ```diff
