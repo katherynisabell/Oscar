@@ -1,6 +1,5 @@
-<style>
-red { color: red }
-</style>
+```diff
+- text in red
 
 ![image](https://user-images.githubusercontent.com/111913185/217900503-df7e31d9-270a-41e2-94bc-f0e60c04ad55.png)
 
@@ -15,7 +14,7 @@ I can have an awesome site :tada: <br>
 
 ## Introduction :wave:
 
-The purpose of this README is to document the process of using GitBash as an emulation layer for a Git command line. In this README we will show a user how to download GitBash, utilize the basic functions in GitBash, and push a Git repo to render, and utilize Render to deploy a web service. <br>
+- The purpose of this README is to document the process of using GitBash as an emulation layer for a Git command line. In this README we will show a user how to download GitBash, utilize the basic functions in GitBash, and push a Git repo to render, and utilize Render to deploy a web service. <br>
 
 ## Resources :gear:
 
