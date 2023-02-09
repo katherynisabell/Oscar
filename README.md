@@ -31,7 +31,7 @@ Step 9: Use `touch add app.js` where the node stuff will go and `touch index.htm
 Step 10: Need to put node express thing into app.js and a small code snippet into index.html to display like “I DEPLOYED A WEBPAGE” (show user code snippet)<br>
 Show and explain basic commands such as git pull (gets most recent files from repo), touch(adds a file), **add one more**<br>
 Basic GIT Commands: A Complete Cheat Sheet for Beginners (hostinger.com)<br>
-Step 11-14: Explain you can modify your code then push it to the repo using these commands (git add, git commit -m, git push, git status)<br>
+Step 11-14: Explain you can modify your code then push it to the repo using these commands (`git add` `git commit -m` `git push` `git status`)<br>
 
 # Setting up Render to deploy your webpage
 
