@@ -20,23 +20,23 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 - [ ] Download Git bash https://gitforwindows.org/ <br>
 
-Step 2: Download Node.js https://nodejs.dev/en/ <br>
+- [ ] Download Node.js https://nodejs.dev/en/ <br>
 
-Step 3: Create a new Github repo <br>
+- [ ] Create a new Github repo <br>
 
-Step 4: After new repo is created grab the link to code <br>
+- [ ] After new repo is created grab the link to code <br>
 
-Step 5: Open the git bash terminal (either in VS code or the app)<br>
+- [ ] Open the git bash terminal (either in VS code or the app)<br>
 
-Step 6: CD to where the file should be cloned (Desktop) (show code snippet)<br>
+- [ ] CD to where the file should be cloned (Desktop) (show code snippet)<br>
 
-Step 7: `git clone` Clone repo <br>
+- [ ] `git clone` Clone repo <br>
 
 # Setting up your code
 
-Step 8: Go to files and open the cloned repo + CD into cloned repo <br>
-Step 9: Use `touch add app.js` where the node stuff will go and `touch index.html` where web page content will go (show user code snippet)<br>
-Step 10: Need to put node express thing into app.js and a small code snippet into index.html to display like “I DEPLOYED A WEBPAGE” (show user code snippet)<br>
+- [ ] Go to files and open the cloned repo + CD into cloned repo <br>
+- [ ] Use `touch add app.js` where the node stuff will go and `touch index.html` where web page content will go (show user code snippet)<br>
+- [ ] Need to put node express thing into app.js and a small code snippet into index.html to display like “I DEPLOYED A WEBPAGE” (show user code snippet)<br>
 Show and explain basic commands such as 
 `git pull` (gets most recent files from repo), 
 `touch` (adds a file), **add one more**<br>
@@ -48,8 +48,8 @@ git status
 ```
 # Setting up Render to deploy your webpage
 
-Step 15: Go to render (create account if needed)<br>
-Step 16: Create a new web service, connect to Github repo, change start to be Node.js, add yarn if needed<br>
-Step 17: Initialize the web service in Git Bash terminal by calling node app.js <br>
+- [ ] Go to render (create account if needed)<br>
+- [ ] Create a new web service, connect to Github repo, change start to be Node.js, add yarn if needed<br>
+- [ ] Initialize the web service in Git Bash terminal by calling node app.js <br>
 
 ![image](https://user-images.githubusercontent.com/111913185/217900556-9aa3f6d0-7f21-46c3-b641-4955ec13169e.png)
