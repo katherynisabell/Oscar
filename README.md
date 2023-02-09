@@ -90,8 +90,12 @@ app.listen(PORT, () => {
 ```
 ![image](https://user-images.githubusercontent.com/111913185/217911417-a5f5f807-9df5-42c4-937d-199158216d9b.png) <br>
 ```diff
-- [ ] Initialize the web service in Git Bash terminal by calling node app.js <br>
+- [ ] Initialize the web service in Git Bash command terminal by calling <br>
 ```
+```javascript
+node app.js
+```
+
 
 ![image](https://user-images.githubusercontent.com/111913185/217900556-9aa3f6d0-7f21-46c3-b641-4955ec13169e.png)
 
