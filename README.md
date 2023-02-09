@@ -54,7 +54,7 @@ git status
 ```
 ## Let's Deploy :rocket:
 
-- [ ] Go to render (create account if needed)<br>
+- [ ] Go to render https://render.com/ (create account if needed)<br>
 - [ ] Create a new web service, connect to Github repo, change start to be Node.js, add yarn if needed<br>
 - [ ] Initialize the web service in Git Bash terminal by calling node app.js <br>
 
