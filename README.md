@@ -2,7 +2,7 @@
 
 # Story card  <br>
 
-- [x]As a web dev <br>
+- [x] As a web dev <br>
 I want to create a webservice using Git Bash command line and Render <br>
 So that I can have an awesome site <br>
 
