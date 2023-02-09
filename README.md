@@ -1,6 +1,3 @@
-```diff
-- text in red
-```
 
 ![image](https://user-images.githubusercontent.com/111913185/217900503-df7e31d9-270a-41e2-94bc-f0e60c04ad55.png)
 
@@ -47,8 +44,9 @@ https://www.hostinger.com/tutorials/basic-git-commands <br>
 
 - [ ] Go to files and open the cloned repo + CD into cloned repo <br>
 
+```diff
 - [ ] Use `touch add app.js` where the node stuff will go and `touch index.html` where web page content will go (show user code snippet)<br>
- 
+``` 
 - [ ] Need to put node express thing into app.js and a small code snippet into index.html to display like “I DEPLOYED A WEBPAGE” (show user code snippet)<br>
 
 Show and explain basic commands such as 
