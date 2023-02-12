@@ -99,4 +99,14 @@ node app.js
 ![image](https://user-images.githubusercontent.com/111913185/217900556-9aa3f6d0-7f21-46c3-b641-4955ec13169e.png)
 
 
+## Setting up Render to deploy your webpage
 
+- [ ] Go to render (create account if needed)
+
+- [ ] Create a new web service, connect to Github repo, change start to Node.js, add yarn if needed
+
+- [ ] Initialize the web service in Git Bash terminal by calling node app.js
+
+- [ ] You're done! 
+
+![image](https://i.pinimg.com/originals/0f/d5/f6/0fd5f629cdfa85f1d99b3797941acc00.jpg)
