@@ -85,12 +85,13 @@ app.listen(PORT, () => {
 
 - [ ] Go to render https://render.com/ (sign in with Github)<br>
 
-```diff
-- [ ] Create a new web service, connect to Github repo, change start to be Node.js, add yarn if needed<br>
-```
 ![image](https://user-images.githubusercontent.com/111913185/217911417-a5f5f807-9df5-42c4-937d-199158216d9b.png) <br>
-
+- [ ] Connect your repo 
+- [ ] Environment = Node
+- [ ] build command = $ yarn
+- [ ] start command = $ node app.js
 - [ ] Initialize the web service in Git Bash command terminal by calling <br>
+
 ```javascript
 node app.js
 ```
